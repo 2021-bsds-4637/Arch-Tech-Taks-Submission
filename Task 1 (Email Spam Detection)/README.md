@@ -104,7 +104,3 @@ nltk.download('wordnet')
 
 ---
 
-## 📬 Contact
-
-Made with 💻 by [Your Name]  
-Feel free to connect via [LinkedIn](#) or raise an issue!
